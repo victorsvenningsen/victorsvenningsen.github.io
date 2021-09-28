@@ -1,0 +1,30 @@
+.body {
+    margin: 0%;
+    padding: 0%;
+}
+
+.header h1{
+    text-align: left;
+    color: #ffffff;
+font-size: 50px;
+}
+
+a {
+    color: #fff;
+  }
+
+
+.text-box {
+    text-align: center;
+    color: #fff;
+    font-size: 17px;
+}
+
+.punkter {
+    text-align: left;
+    color: #fff;
+font-size: 20px;
+
+}
+
+
